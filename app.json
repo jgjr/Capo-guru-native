@@ -1,0 +1,21 @@
+{
+    "expo": {
+        "sdkVersion": "27.0.0",
+        "name": "Capo Guru",
+        "icon": "../favicon.png",
+        "version": "1.0.1",
+        "slug": "capo-guru",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#2196f3"
+        },
+        "ios": {
+            "bundleIdentifier": "com.greenwoodlomax.capoguru"
+        },
+        "android": {
+            "package": "com.greenwoodlomax.capoguru",
+            "permissions": []
+        }
+    }
+}
